@@ -1,0 +1,17 @@
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\CsvSerializer.exe
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\CsvSerializer.deps.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\CsvSerializer.runtimeconfig.json
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\CsvSerializer.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\CsvSerializer.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.csproj.AssemblyReference.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.AssemblyInfoInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.AssemblyInfo.cs
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.csproj.CoreCompileInputs.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSeria.E131E325.Up2Date
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\refint\CsvSerializer.dll
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.pdb
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\CsvSerializer.genruntimeconfig.cache
+C:\Users\furye\OneDrive\Рабочий стол\Homework\CsvSerializer\obj\Debug\net8.0\ref\CsvSerializer.dll
